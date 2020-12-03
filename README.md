@@ -1,2 +1,2 @@
-# xf-conf
-parse conf file
+# XF-Conf
+A lightweight go configuare file parser library
